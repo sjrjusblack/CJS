@@ -26,7 +26,7 @@ if __name__ == "__main__":
     numb2 = 13
 
     #create list from number start and end
-    o_list = range(start, end+1)          
+    o_list = range(start, end+1)
 
     #get list number change to alphabet
     multi1 = MultipleNumber(numb1)
